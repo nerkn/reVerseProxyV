@@ -1,8 +1,7 @@
 [
 {	"from":	"localhost",		"to":	"localhost:5000"	}, 
 {		"from":	"l320:8080",		"to":	"localhost:3300"	},
-{		"from":	"localhost:8080",		"to":	"localhost:3305"	},
-{		"from":	"adminer:8080",		"to":	"213.238.167.138:8080"	}
+{		"from":	"localhost:8080",		"to":	"localhost:3305"	}
 ]
 
 
